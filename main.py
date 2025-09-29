@@ -1,3 +1,11 @@
+# ============================================================
+# File: example.py
+# Author: Leo Tso
+# Date: 2025-09-29
+# Description:
+#   Demonstration file showing author/date comments.
+# ============================================================
+
 # This line is importing the "calculator" function from another file.
 # Imagine that "calculator" is like a tool or recipe that we've already written somewhere else,
 # and now we are telling the computer, "Go and find that calculator tool for us."
